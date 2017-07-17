@@ -1,0 +1,1 @@
+for %%f in (Images\*.jpg) do OpenCVProject.exe %%f noshow
